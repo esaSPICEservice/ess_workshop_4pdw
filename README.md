@@ -1,4 +1,4 @@
-Seminar on Solar System Geometry with SPICE
+SPICE Workshop (a brief one)
 ===========================================
  
 SPICE is an information system that uses ancillary data to provide Solar System geometry information to 
