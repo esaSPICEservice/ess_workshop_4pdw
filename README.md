@@ -19,12 +19,9 @@ For more information
 on SPICE please visit the
 [ESA SPICE Service (ESS) web site](https://www.cosmos.esa.int/web/spice/).
 
-![alt text](https://github.com/esaSPICEservice/ess_workshop_epsc2018/blob/master/remote_sensing_lesson/img/class_pic.jpg)
-Image courtesy of [Matt Brealey](https://twitter.com/badgrenola)
-
-Seminar Agenda
+Workshop Agenda
 ---------------
-The agenda for the Seminar will be:
+The agenda for the workshop will be:
 
 * Introducing SPICE the cool way: Cosmographia.
 * Cosmographia & WebGeoCalc DEMO 
