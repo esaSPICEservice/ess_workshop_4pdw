@@ -19,7 +19,7 @@ For more information
 on SPICE please visit the
 [ESA SPICE Service (ESS) web site](https://www.cosmos.esa.int/web/spice/).
 
-To interact during the workshop join the OpenPlanetary forum: 
+To interact during the workshop join the  
 [OpenPlanetary forum](https://forum.openplanetary.org/t/spice-workshop-a-short-one/120)
 
 Workshop Agenda
